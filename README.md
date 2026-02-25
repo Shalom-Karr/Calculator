@@ -3,6 +3,9 @@
 
 A lightweight, fully functional calculator built in a single file using **HTML**, **JavaScript**, and **Strictly Inline CSS**. 
 
+![Status](https://img.shields.io/badge/Status-Playable-brightgreen)
+![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blue)
+
 Because this project uses zero external stylesheets or dependencies, it is incredibly easy to drop into any existing project, email template, or environment where external files are restricted.
 
 ## 🚀 Features
